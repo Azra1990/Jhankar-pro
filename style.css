@@ -1,0 +1,45 @@
+body{
+    font-family: 'Odibee Sans', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    line-height: 0.7;
+}
+.name-highlight{
+    color: orangered;
+}
+.half-sec{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.half-sec img{
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float: right;
+    text-align: right;
+    padding: 10px;
+    margin-right: 5%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-botton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+    
